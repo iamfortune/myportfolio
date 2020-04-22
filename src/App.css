@@ -108,8 +108,8 @@ a{
   grid-gap: 1rem;
 }
 .work_container .projects_container img{
-  height: 20rem;
-  width: 20rem;
+  height: 25rem;
+  width: 25rem;
 }
 .work_container .projects_container .title{
   font-size: 1.2rem;
