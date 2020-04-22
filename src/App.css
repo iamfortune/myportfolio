@@ -166,13 +166,14 @@ a{
   top:10rem;
 }
 .about_container h1{
-  font-size: 5rem;
+  font-size: 8vw;
   font-family: 'Montserrat';
+
 }
 .about_container p{
   position: relative;
   top:-2rem;
-  font-size: 1.6rem;
+  font-size: 5vw;
   width: 60vw;
   opacity: 0.4;
 }
