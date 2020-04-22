@@ -45,7 +45,7 @@ export default {
     },
     {
       id: 4, //DO NOT CHANGE THIS (Please)😅
-      title: "LVA (multipurpose laravel and Vue app with admin dashboard)",
+      title: "LVA (Laravel and Vue app with admin dashboard)",
       imageSrc: "https://www.devvau.com/assets/img/articles/laravel-vue.png",
       url: "https://github.com/iamfortune/LVA",
     },
