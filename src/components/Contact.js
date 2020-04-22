@@ -5,7 +5,6 @@ const Contact = ({contactEmail, contactPara, socialLinks})=>{
 
     return (
       <div className="contact_container">
-        <h2>Contact me</h2>
         <p>{contactPara}</p>
         <br></br>
         <a className="email_link" href={`mailto:${contactEmail}`}>

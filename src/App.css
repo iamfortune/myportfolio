@@ -79,7 +79,7 @@ a{
 }
 .home_container .image_container img{
   position: relative;
-  height: 26rem;
+  height: 23rem;
   width: 18rem;
   top:5rem;
   border-style: solid;
@@ -87,6 +87,7 @@ a{
   border-top: 0px;
   border-left: 0px;
   border-color: #1E6FD9;
+  object-fit: contain;
 }
 
 
@@ -110,6 +111,7 @@ a{
 .work_container .projects_container img{
   height: 25rem;
   width: 25rem;
+  object-fit: contain;
 }
 .work_container .projects_container .title{
   font-size: 1.2rem;
@@ -228,6 +230,7 @@ a{
   height: 10rem;
   width: 8rem;
   top: 2rem;
+  object-fit: contain;
 }
 
 /* Work */
@@ -247,6 +250,7 @@ a{
 .work_container .projects_container img {
   height: 8rem;
   width: 8rem;
+  object-fit: contain;
 }
 
 .work_container .projects_container .title {
@@ -332,6 +336,7 @@ a{
     height: 10rem;
     width: 8rem;
     top: 2rem;
+    object-fit: contain;
   }
 
   /* Work */
@@ -351,6 +356,7 @@ a{
   .work_container .projects_container img {
     height: 8rem;
     width: 8rem;
+    object-fit: contain;
   }
 
   .work_container .projects_container .title {
