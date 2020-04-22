@@ -39,7 +39,7 @@ a{
   list-style: none;
 }
 .header_container ul li{
-  display: inline-block;
+  display: inline;
   padding-right: 2rem;
 }
 .header_container ul li a{
